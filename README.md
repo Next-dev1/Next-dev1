@@ -1,4 +1,4 @@
-<img align="middle" alt="Coding" width="1920" src="https://www.digitaltrends.com/wp-content/uploads/2022/10/Batman-Arkham-Knight-Gotham-City.jpg?p=1">
+<img align="middle" alt="Coding" width="1920" src="https://media1.tenor.com/m/3qAH5-cnwWkAAAAd/batman.gif">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Helvetica&weight=100&size=170&duration=3000&pause=1000&color=717171&center=true&random=false&width=1920&height=250&lines=%F0%9D%91%AF%F0%9D%91%B0+%F0%9D%91%AA%F0%9D%91%BC%F0%9D%91%BB%F0%9D%91%B0%F0%9D%91%AC+%3A%F0%9D%91%AB;%F0%9D%91%B4%F0%9D%92%80+%F0%9D%91%B5%F0%9D%91%A8%F0%9D%91%B4%F0%9D%91%AC+%F0%9D%91%B0%F0%9D%91%BA+%F0%9D%91%BA%F0%9D%91%AC%F0%9D%91%A8%F0%9D%91%B5+%3A)" alt="Typing SVG" /></a>
 <a href="https://git&center=true&random=faMy+name+is+Sean+%3A)" alt="Typing SVG" /></a><h3 
 align="center">𝟏𝟗 𝐲𝐞𝐚𝐫𝐬 𝐨𝐥𝐝. 𝐈 𝐚𝐬𝐩𝐢𝐫𝐞 𝐭𝐨 𝐛𝐞𝐜𝐨𝐦𝐞 𝐚 𝐔𝐈|𝐔𝐗 𝐃𝐞𝐬𝐢𝐠𝐧𝐞𝐫 | 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫.</h3>
