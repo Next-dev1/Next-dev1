@@ -1,6 +1,6 @@
 <img align="middle" alt="Coding" width="1920" src="https://media1.tenor.com/m/3qAH5-cnwWkAAAAd/batman.gif">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=300&size=90&duration=4000&pause=700&color=555555&center=true&width=1440&height=170&lines=Hi+Welcome+to+my+GitHub+%3AD;My+name+is+Sean;I'm+a+UI%2FUX+Designer;%26+Web+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=200&size=90&duration=4000&pause=700&color=555555&center=true&width=1440&height=170&lines=Hi+Welcome+to+my+GitHub+%3AD;My+name+is+Sean;I'm+a+UI%2FUX+Designer;%26+Web+Developer" alt="Typing SVG" /></a>
 
 <a href="https://git&center=true&random=faMy+name+is+Sean+%3A)" alt="Typing SVG" /></a><h3 
 align="center">𝟏𝟗 𝐲𝐞𝐚𝐫𝐬 𝐨𝐥𝐝. 𝐈 𝐚𝐬𝐩𝐢𝐫𝐞 𝐭𝐨 𝐛𝐞𝐜𝐨𝐦𝐞 𝐚 𝐔𝐈|𝐔𝐗 𝐃𝐞𝐬𝐢𝐠𝐧𝐞𝐫 | 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫.</h3>
