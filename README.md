@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=200&size=90&duration=4000&pause=700&color=555555&center=true&width=1440&height=170&lines=Hi+Welcome+to+my+GitHub+%3AD;My+name+is+Sean;I'm+a+UI%2FUX+Designer;%26+Web+Developer" alt="Typing SVG" /></a>
 
 <a href="https://git&center=true&random=faMy+name+is+Sean+%3A)" alt="Typing SVG" /></a><h3 
-align="center">20 𝐲𝐞𝐚𝐫𝐬 𝐨𝐥𝐝. 𝐈 𝐚𝐬𝐩𝐢𝐫𝐞 𝐭𝐨 𝐛𝐞𝐜𝐨𝐦𝐞 𝐚 𝐔𝐈|𝐔𝐗 𝐃𝐞𝐬𝐢𝐠𝐧𝐞𝐫 | 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫.</h3>
+align="center">21 𝐲𝐞𝐚𝐫𝐬 𝐨𝐥𝐝. 𝐈 𝐚𝐬𝐩𝐢𝐫𝐞 𝐭𝐨 𝐛𝐞𝐜𝐨𝐦𝐞 𝐚 𝐔𝐈|𝐔𝐗 𝐃𝐞𝐬𝐢𝐠𝐧𝐞𝐫 | 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8e/75/2c/8e752cf446947d3d01c0eaaf9e1504e2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=next-dev1&label=Profile%20views&color=0e75b6&style=flat" alt="next-dev1" /> </p>
